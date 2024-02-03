@@ -13,7 +13,7 @@ def get_crypto_price(coin):
     import requests
 
     headers = {
-        'x-access-token': 'coinranking77771b337cde337ba9aecec16aa65095a3f6e996fa1e5e38'
+        'x-access-token': 'my_secret_token'
     }
 
     currency = 'n5fpnvMGNsOS'  # reais
