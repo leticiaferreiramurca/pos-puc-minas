@@ -1,4 +1,5 @@
-# pos-puc-minas
+# Monitoramento Near Real Time de Preços de Criptomoedas
+
 Este repositório contém os códigos utilizados no trabalho de conclusão de curso da pós graduação em Engenharia de Dados da Puc Minas.
 O objetivo deste código é criar uma estrutura para o consumo, procesamento e visualização de dados de criptomoedas Near Real Time.
 
