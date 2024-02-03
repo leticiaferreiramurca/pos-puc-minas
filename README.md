@@ -4,7 +4,7 @@ Este repositório contém os códigos utilizados no trabalho de conclusão de cu
 O objetivo deste código é criar uma estrutura para o consumo, procesamento e visualização de dados de criptomoedas Near Real Time.
 
 
-Foram utilizados códigos construídos assistindo a um tutorial do Youtube sobre como realizar streammings em tempo real, este tutorial está referenciado logo abaixo.
+Foram utilizados códigos construídos assistindo a um tutorial do Youtube sobre como realizar streammings em tempo real, este tutorial está referenciado logo abaixo. Cabe ressaltar que embora tenham sido utilizados códigos públicos presentes no github, várias alterações, adaptações e atualizações foram realizadas a fim de possibilitar a ingestão, processamento e visualização de dados de criptomoedas.
 
 **Tutorial e códigos utilizados no desenvolvimento deste trabalho:**
 
